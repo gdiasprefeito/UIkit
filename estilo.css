@@ -1,0 +1,27 @@
+img {
+    width: 50px;
+}
+
+.uk-section, .uk-section-primary {
+    padding: 15px 0;
+    
+}
+
+
+
+.nav-custom {
+    background-color: #1e87f0 !important; 
+}
+
+.nav-custom > .uk-container > div > .uk-navbar-left > .uk-navbar-nav > li > a,
+.nav-custom > .uk-container > div > .uk-navbar-right > .uk-navbar-nav > li > a {
+    color: #ffffff !important;
+}
+
+.nav-custom .uk-navbar-nav > li > a:hover {
+    color: #e0e0e0 !important;
+}
+
+.uk-footer-alig {
+    padding-left: 150px;
+}
