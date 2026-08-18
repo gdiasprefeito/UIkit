@@ -13,7 +13,7 @@
 **18/08:** Programou <br>
 
 **Larry:** <br>
-**12/08:** Pesquisou <br>
+**12/08:** Pesquisou  sobre a empresa  e a comunidade.<br>
 **18/08:** Programou <br>
 
 
