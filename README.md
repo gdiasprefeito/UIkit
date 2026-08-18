@@ -14,6 +14,6 @@
 
 **Larry:** <br>
 **12/08:** Pesquisou  sobre a empresa  e a comunidade.<br>
-**18/08:** Programou <br>
+**18/08:** Programou o footer da página <br>
 
 
