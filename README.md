@@ -13,7 +13,7 @@
 **13/08:**  Fez o wireframe com Thauany. <br>
 **18/08:** Programou o footer da página <br>
 
-**Larry:** <br>
+**Thauany:** <br>
 **12/08:** Pesquisou  sobre a empresa  e a comunidade.<br>
 **13/08:**  Fez o wireframe com Larry <br>
 **18/08:** Programou o nav da página
