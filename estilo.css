@@ -25,3 +25,7 @@ img {
 .uk-footer-alig {
     padding-left: 150px;
 }
+
+html {
+  scroll-behavior: smooth;
+}
