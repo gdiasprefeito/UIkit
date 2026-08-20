@@ -1,3 +1,7 @@
+**10/08**: Divisão de funções.
+
+
+
 **Gabriel:** <br>
 **14/08:** Programou. <br>
 **15/08:** Programou. <br>
