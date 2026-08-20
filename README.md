@@ -19,3 +19,4 @@
 **18/08:** Programou o nav da página.
 
 
+LINK SLIDES: https://canva.link/boa5fo4poln9gzc
