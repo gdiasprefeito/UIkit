@@ -35,7 +35,7 @@
                                 </ul>
                             </div>
                         </li>
-                        
+
                     </ul>
                 </div>
                 <div class="uk-navbar-right">
@@ -65,7 +65,8 @@
                     <h1>Suporte especializado em UIkit </h1>
                     <p>Desenvolva sites modernos,rápidos,praticos e responsivos utilizado nossa ferrameta UIkit</p>
                     <a href="#suporte" class="uk-button uk-button-primary">Conheça nossos planos</a>
-                    <a href="https://www.canva.com/design/DAHSWtaf0F8/sL_4VusVA00q0-6R5EG66A/edit" class="uk-button uk-button-default">Saiba mais sobre o framework</a>
+                    <a href="https://www.canva.com/design/DAHSWtaf0F8/sL_4VusVA00q0-6R5EG66A/edit"
+                        class="uk-button uk-button-default">Saiba mais sobre o framework</a>
                 </div>
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
@@ -224,80 +225,77 @@
 
 
 
-<div id="inscrição" class="uk-card uk-card-default uk-card-body">
-    <h3 class="uk-card-title">
-        <span uk-icon="icon: user; ratio: 1.2"></span> Formulário de Inscrição
-    </h3>
+    <div id="inscrição" class="uk-card uk-card-default uk-card-body">
+        <h3 class="uk-card-title">
+            <span uk-icon="icon: user; ratio: 1.2"></span> Formulário de Inscrição
+        </h3>
 
-    <form id="form-inscricao">
+        <form id="form-inscricao">
 
-        <!-- Escolha do plano -->
-        <div class="uk-margin">
-            <label class="uk-form-label">Escolha seu plano</label>
-            <div class="uk-form-controls">
+            <div class="uk-margin">
+                <label class="uk-form-label">Escolha seu plano</label>
+                <div class="uk-form-controls">
 
-                <input type="radio" name="plano" id="plano-inicial" value="Inicial" class="radio-plano" required>
-                <label for="plano-inicial" class="uk-button uk-button-default btn-plano">
-                    Inicial — R$ 199
-                </label>
+                    <input type="radio" name="plano" id="plano-inicial" value="Inicial" class="radio-plano" required>
+                    <label for="plano-inicial" class="uk-button uk-button-default btn-plano">
+                        Inicial — R$ 199
+                    </label>
 
-                <input type="radio" name="plano" id="plano-profissional" value="Profissional" class="radio-plano">
-                <label for="plano-profissional" class="uk-button uk-button-default btn-plano">
-                    Profissional — R$ 399
-                </label>
+                    <input type="radio" name="plano" id="plano-profissional" value="Profissional" class="radio-plano">
+                    <label for="plano-profissional" class="uk-button uk-button-default btn-plano">
+                        Profissional — R$ 399
+                    </label>
 
-                <input type="radio" name="plano" id="plano-empresarial" value="Empresarial" class="radio-plano">
-                <label for="plano-empresarial" class="uk-button uk-button-default btn-plano">
-                    Empresarial — R$ 699
-                </label>
+                    <input type="radio" name="plano" id="plano-empresarial" value="Empresarial" class="radio-plano">
+                    <label for="plano-empresarial" class="uk-button uk-button-default btn-plano">
+                        Empresarial — R$ 699
+                    </label>
 
-            </div>
-        </div>
-
-        <!-- Nome -->
-        <div class="uk-margin">
-            <label class="uk-form-label" for="nome">Nome completo</label>
-            <div class="uk-form-controls">
-                <input class="uk-input" id="nome" name="nome" type="text"
-                    placeholder="Digite seu nome completo" required>
-            </div>
-        </div>
-
-        <!-- Email -->
-        <div class="uk-margin">
-            <label class="uk-form-label" for="email">E-mail</label>
-            <div class="uk-form-controls">
-                <input class="uk-input" id="email" name="email" type="email"
-                    placeholder="seuemail@exemplo.com" required>
-            </div>
-        </div>
-
-        <!-- CPF -->
-        <div class="uk-margin">
-            <label class="uk-form-label" for="cpf">CPF</label>
-            <div class="uk-form-controls">
-                <input class="uk-input" id="cpf" name="cpf" type="text"
-                    placeholder="000.000.000-00"
-                    pattern="\d{3}\.\d{3}\.\d{3}-\d{2}"
-                    title="Use o formato 000.000.000-00"
-                    maxlength="14" required>
-                <div class="uk-text-small uk-text-danger" id="cpf-erro" hidden>
-                    CPF inválido.
                 </div>
             </div>
-        </div>
 
-        <div class="uk-margin uk-text-right">
-            <button class="uk-button uk-button-primary" type="submit">
-                Confirmar inscrição
-            </button>
-        </div>
-    </form>
-</div>
 
-</div>
-    
-    
+            <div class="uk-margin">
+                <label class="uk-form-label" for="nome">Nome completo</label>
+                <div class="uk-form-controls">
+                    <input class="uk-input" id="nome" name="nome" type="text" placeholder="Digite seu nome completo"
+                        required>
+                </div>
+            </div>
+
+
+            <div class="uk-margin">
+                <label class="uk-form-label" for="email">E-mail</label>
+                <div class="uk-form-controls">
+                    <input class="uk-input" id="email" name="email" type="email" placeholder="seuemail@exemplo.com"
+                        required>
+                </div>
+            </div>
+
+
+            <div class="uk-margin">
+                <label class="uk-form-label" for="cpf">CPF</label>
+                <div class="uk-form-controls">
+                    <input class="uk-input" id="cpf" name="cpf" type="text" placeholder="000.000.000-00"
+                        pattern="\d{3}\.\d{3}\.\d{3}-\d{2}" title="Use o formato 000.000.000-00" maxlength="14"
+                        required>
+                    <div class="uk-text-small uk-text-danger" id="cpf-erro" hidden>
+                        CPF inválido.
+                    </div>
+                </div>
+            </div>
+
+            <div class="uk-margin uk-text-right">
+                <button class="uk-button uk-button-primary" type="submit">
+                    Confirmar inscrição
+                </button>
+            </div>
+        </form>
+    </div>
+
+    </div>
+
+
 
 
 
