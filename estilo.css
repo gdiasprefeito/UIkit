@@ -29,3 +29,26 @@ img {
 html {
   scroll-behavior: smooth;
 }
+.icone-azul {
+    color: #29BEF0;
+}
+
+.icone-vermelho {
+    color: #B22222;
+}
+
+.icone-verde {
+    color: #4CAF50;
+}
+
+.icone-amarelo {
+    color: #FFD700;
+}
+
+.icone-roxo {
+    color: #9C27B0;
+}
+
+.icone-branco {
+    color: white;
+}
