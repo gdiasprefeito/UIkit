@@ -1,6 +1,9 @@
 **10/08**: Divisão de funções.
 
-
+**Gabriel:** Programação da maioria da página.  <br>
+**João Paulo:** Pesquisa (parte teórica).  <br>
+**Larry:** Parte da pesquisa, footer da página e atualização do read.me.  <br>
+**Thauany:** Programação da nav, wireframe da página.  <br>
 
 **Gabriel:** <br>
 **14/08:** Programou. <br>
