@@ -1,5 +1,4 @@
-**10/08**: Divisão de funções.
-
+**10/08**: Divisão de funções.  <br>
 **Gabriel:** Programação da maioria da página.  <br>
 **João Paulo:** Pesquisa (parte teórica).  <br>
 **Larry:** Parte da pesquisa, footer da página e atualização do read.me.  <br>
